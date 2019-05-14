@@ -66,3 +66,7 @@ For 2019-2020 session, all students graduating in 2020 and beyond are eligible t
 ## WTM Scholars Program - Pakistan
 ### Can students from Pakistan apply?
 Yes, students from Pakistan are eligible to apply for the Scholars Program under the Asia Pacific (APAC) region.
+
+### Contribution from WTM Lahore, Pakistan:
+Check out these Google Slides for more information, specifically designed for Pakistani Applicants:  
+[Github Repo to Presentation Slides and Sample Application](https://github.com/Rmsharks4/WTMLahore)
